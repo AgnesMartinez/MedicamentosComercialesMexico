@@ -1,5 +1,4 @@
 # MedicamentosComercialesMexico
-Medicamentos Comerciales en Mexico extraidos de el PLM
 
 JSON con las principales sustancias activas de los medicamentos comerciales en mexico.
 

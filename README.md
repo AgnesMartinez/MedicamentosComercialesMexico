@@ -1,4 +1,4 @@
-# MedicamentosComercialesMexico
+# Medicamentos Comerciales de Mexico
 
 JSON con las principales sustancias activas de los medicamentos comerciales en mexico.
 
